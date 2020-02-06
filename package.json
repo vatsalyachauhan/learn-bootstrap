@@ -1,0 +1,33 @@
+{
+  "name": "learn-bootstrap",
+  "version": "1.0.0",
+  "description": "Learning bootstrap for the first time",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vatsalyachauhan/learn-bootstrap.git"
+  },
+  "keywords": [
+    "html kit",
+    "html css kit",
+    "web kit",
+    "freebie",
+    "free bootstrap kit",
+    "css3 kit",
+    "bootstrap admin",
+    "bootstrap kit",
+    "frontend",
+    "responsive bootstrap kit"
+  ],
+  "author": "Sudhanshu Bahety <bahetysudhanshu@gmail.com> (https://www.linkedin.com/in/bahetysudhanshu/), Vatsalya Chauhan <vatsalyachauhan1@gmail.com> (https://www.linkedin.com/in/vatsalyachauhan/) ",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-install": "^1.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-open": "^3.0.1"
+  }
+}
